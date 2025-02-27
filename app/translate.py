@@ -204,7 +204,7 @@ def main():
         "Bengali (bn)": "bn-IN-TanishaaNeural-Female",
         "Korean (ko)": "ko-KR-SunHiNeural-Female",
         "Japanese (ja)": "ja-JP-NanamiNeural-Female",
-        "Ukrainian (uk)": "uk-UA-PolinaNeural-Female",
+        "Ukrainian (uk)": "Катерина Потапенко GRADIO",
     }
 
     # Переменная для хранения всех выходных файлов
