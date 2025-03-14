@@ -139,7 +139,7 @@ def main():
         "literalize_numbers": True,
         "segment_duration_limit": 15,
         "diarization_model": "disable",
-        "translate_process": "gpt-4o-mini_batch",
+        "translate_process": "google_translator_batch",
         "output_type": "mp3",
         "voiceless_track": True,
         "voice_imitation": False,
